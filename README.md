@@ -3,6 +3,9 @@ Arsenal Script, SOLO DEV: FROSTS
 USING Merucry GUI
 (ORBIN GUI COMING SOON)
 
+# BETA RELEASE 2.1!
+loadstring(game:HttpGet(""))()
+
 # ‼️UPDATE‼️ VERSION 2.0
 ALL FEATURES WORKING!
 • Aimbot

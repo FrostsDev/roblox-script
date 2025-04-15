@@ -1,5 +1,5 @@
 # Arsenal Script
-DEVS: Head Dev: Frosts, ESP Dev: VBomzinho
+DEVS: Head Dev: Frosts,     ESP Dev: VBomzinho
 USING Merucry GUI
 (ORBIN GUI COMING SOON)
 

@@ -4,7 +4,7 @@ USING Merucry GUI
 (ORBIN GUI COMING SOON)
 
 # BETA RELEASE 2.1!
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostsDev/roblox-script-arsenal/refs/heads/main/BetaRealse.lua"))()
 
 # ‼️UPDATE‼️ VERSION 2.0
 ALL FEATURES WORKING!

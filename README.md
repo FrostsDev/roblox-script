@@ -5,12 +5,24 @@ USING Merucry GUI
 
 # ‼️UPDATE‼️ VERSION 2.0
 ALL FEATURES WORKING!
+• Aimbot
+• SoftAim
+• ESP
+• Tracers (Change colors coming soon)
+• Health ESP
+• BOXESP 
+• NAMETAG'S
 
 # ❓HOW TO USE❓
 Copy and past: loadstring(game:HttpGet("https://pastebin.com/raw/WRwq4W00"))()
 Or copy the code in the "Source File"
 
+# 📝WHAT TO EXPECT NEXT📝
+RGB Elemnts. Gun Mods (Inf Ammo, No recoil, ect) FULL BODY ESP
+
 # 🏗️SUPPORT⚠️
 WORKS FOR CLOUDLY, AND XENON 110% SURE!
 
 # ScreenShots📷
+![Screenshot 2025-04-14 212311](https://github.com/user-attachments/assets/7eea816f-4acc-41a4-b0eb-b2bdc7715c7d)
+![Screenshot 2025-04-14 212159](https://github.com/user-attachments/assets/6d1ea192-6647-47a5-a7ee-7ab1cd7debb5)

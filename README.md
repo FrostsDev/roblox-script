@@ -29,7 +29,7 @@ WORKS FOR CLOUDLY, AND XENON 110% SURE!
 
 # 💻GUI💻 
 If you use Xenon you will have to use Mercury GUI. But if you use cloudy you are able to use the Orib UI (COMING SOON!) 
-"What if i dont use Xenon or cloudy?" if you dont use either, then test both load string scripts! if you run the Orib UI and it losd but you can't close it or enable on option, then use mercury!
+"What if i dont use Xenon or cloudy?" if you dont use either, then test both load string scripts! if you run the Orib UI and it load's but you can't close it or enable on option, then use mercury!
 
 # ScreenShots📷
 ![Screenshot 2025-04-14 212311](https://github.com/user-attachments/assets/7eea816f-4acc-41a4-b0eb-b2bdc7715c7d)

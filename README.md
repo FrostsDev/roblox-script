@@ -14,7 +14,7 @@ ALL FEATURES WORKING!
 • NAMETAG'S
 
 # ❓HOW TO USE❓
-Copy and past: loadstring(game:HttpGet("https://pastebin.com/raw/WRwq4W00"))()
+Copy and past: loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostsDev/roblox-script/refs/heads/main/source.lua"))()
 Or copy the code in the "Source File"
 
 # 📝WHAT TO EXPECT NEXT📝

@@ -18,7 +18,7 @@ Copy and past: loadstring(game:HttpGet("https://raw.githubusercontent.com/Frosts
 Or copy the code in the "Source File"
 
 # 📝WHAT TO EXPECT NEXT📝
-RGB Elemnts. Gun Mods (Inf Ammo, No recoil, ect) FULL BODY ESP
+RGB Elemnts. Gun Mods (Inf Ammo, No recoil, ect) FULL BODY ESP, Walk speed slider, inf jump, and more....
 
 # 🏗️SUPPORT⚠️
 WORKS FOR CLOUDLY, AND XENON 110% SURE!
